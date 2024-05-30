@@ -1,0 +1,19 @@
+#box {
+  width: 330px;
+  height: 300px;
+  border: 4px solid gold;
+}
+
+button {
+  width: 80px;
+  height: 40px;
+}
+
+#box #display {
+  width: 100%;
+  height: 25%;
+  border: 3px solid black;
+  margin-bottom: 10px;
+  text-align: right;
+  font-size: 30px;
+}
